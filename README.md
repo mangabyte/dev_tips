@@ -144,6 +144,7 @@ Tenha a extensão **[EditorConfig for VS Code (EditorConfig)](https://marketplac
 - **[C/C++ (Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)**: IntelliSense e debug para C.
 - **[C/C++ (Microsoft) / C/C++ Extension Pack (Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)**: Autocompletar, debug e suporte avançado para C/C++.
 - **[CMake/CMake Tools (Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)**: Suporte para autocompletar e gerenciamento de projetos CMake.
+- **[clangd (llvm)](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd)**: Alternativa para as extensões acima, recomendado para sistemas MacOs. As extensões de C/C++ providas pela Microsoft tendem a ser mais lentas no sistema da Apple, por isso o clangd é recomendado.
 
 #### **Produtividade**
 
