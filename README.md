@@ -1,6 +1,6 @@
 # Dev tips
 
-Este arquivo é para ter informações mais detalhadas sobre
+Este arquivo mostra informações mais detalhadas sobre
   como utilizar e modificar o código nos padrões estabelecidos pelo grupo.
 
 ## Git
