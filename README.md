@@ -132,8 +132,8 @@ ferramenta. Mesmo assim, caso prefira usar uma outra IDE, certifique dela ter a
 extensão abaixo, EditorConfig, ou então configure a sua IDE para manter o padrão
 estabelecido.
 Quaisquer dúvidas não devem ser deixadas de lado e podem criar uma issue
-(preferível) ou enviar mensagem no grupo de WhatsApp. Dê preferência a criar uma
-[issue](https://github.com/mangabyte/surucursed/issues)
+(preferível) ou enviar mensagem para algum dos veteranos. Dê preferência a criar uma
+[issue](https://github.com/mangabyte/dev_tips/issues)
 
 Tenha a extensão **[EditorConfig for VS Code (EditorConfig)](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)** instalada.
 
