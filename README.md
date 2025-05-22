@@ -163,7 +163,7 @@ Tenha a extensão **[EditorConfig for VS Code (EditorConfig)](https://marketplac
 
 #### **Extras Úteis**
 
-- **[Code Snap (adpyke)](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)**: Tire screenshots estilizadas do código para compartilhar.
+- **[Easy Code Snap (Arthur Lobo)](https://marketplace.visualstudio.com/items?itemName=ArthurLobo.easy-codesnap)**: Tire screenshots estilizadas do código para compartilhar.
 - **[WakaTime (WakaTime)](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)**: Mede o tempo gasto no projeto (útil para métricas de produtividade).
 - **[Discord Presence (Crawl)](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)**: Mostra no Discord o que você está codificando.
 - **[C/C++ Themes (Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes)**: Tema para o VS Code em C
