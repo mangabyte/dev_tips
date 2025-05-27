@@ -84,7 +84,7 @@ git push --set-upstream origin nome-da-branch
 git push
 ```
 
-#### 2. **Padrão de Commits (Exemplos Práticos)**
+#### 2. **Padrão de Commits (Breve explicação)**
 
 ```markdown
 ### Exemplos de Commits
