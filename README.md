@@ -94,6 +94,7 @@ git push
 | fix      | `fix:` solucionar problemas no código (bug fix)                                                        |
 | docs     | `docs:` mudança na documentação (Readme). Não inclui mudanças no código                                |
 | chore    | `chore:` atualizar tarefas na build (ex.: adicionar algo no .gitignore). Não inclui mudanças no código |
+|----------|--------------------------------------------------------------------------------------------------------|
 ```
 
 ## Github
